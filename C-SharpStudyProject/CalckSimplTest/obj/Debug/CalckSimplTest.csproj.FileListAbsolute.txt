@@ -1,0 +1,24 @@
+c:\users\viacheslav\documents\visual studio 2013\Projects\CalckSimplTest\CalckSimplTest\bin\Debug\CalckSimplTest.exe.config
+c:\users\viacheslav\documents\visual studio 2013\Projects\CalckSimplTest\CalckSimplTest\bin\Debug\CalckSimplTest.exe
+c:\users\viacheslav\documents\visual studio 2013\Projects\CalckSimplTest\CalckSimplTest\bin\Debug\CalckSimplTest.pdb
+c:\users\viacheslav\documents\visual studio 2013\Projects\CalckSimplTest\CalckSimplTest\obj\Debug\CalckSimplTest.csprojResolveAssemblyReference.cache
+c:\users\viacheslav\documents\visual studio 2013\Projects\CalckSimplTest\CalckSimplTest\obj\Debug\CalckSimplTest.Properties.Resources.resources
+c:\users\viacheslav\documents\visual studio 2013\Projects\CalckSimplTest\CalckSimplTest\obj\Debug\CalckSimplTest.csproj.GenerateResource.Cache
+c:\users\viacheslav\documents\visual studio 2013\Projects\CalckSimplTest\CalckSimplTest\obj\Debug\CalckSimplTest.exe
+c:\users\viacheslav\documents\visual studio 2013\Projects\CalckSimplTest\CalckSimplTest\obj\Debug\CalckSimplTest.pdb
+C:\Users\Viacheslav\Documents\Visual Studio 2013\Projects\CalckSimplTest\CalckSimplTest\obj\Debug\CalckSimplTest.MainForm.resources
+C:\Users\Viacheslav\Google Drive\Прог\WSG\Примеры Курс 2\CalckSimplTest\CalckSimplTest\bin\Debug\CalckSimplTest.exe.config
+C:\Users\Viacheslav\Google Drive\Прог\WSG\Примеры Курс 2\CalckSimplTest\CalckSimplTest\obj\Debug\CalckSimplTest.exe
+C:\Users\Viacheslav\Google Drive\Прог\WSG\Примеры Курс 2\CalckSimplTest\CalckSimplTest\obj\Debug\CalckSimplTest.pdb
+C:\Users\Viacheslav\Google Drive\Programing\WSG\Примеры Курс 2\CalckSimplTest\CalckSimplTest\bin\Debug\CalckSimplTest.exe.config
+C:\Users\Viacheslav\Google Drive\Programing\WSG\Примеры Курс 2\CalckSimplTest\CalckSimplTest\obj\Debug\CalckSimplTest.exe
+C:\Users\Viacheslav\Google Drive\Programing\WSG\Примеры Курс 2\CalckSimplTest\CalckSimplTest\obj\Debug\CalckSimplTest.pdb
+C:\Users\Viacheslav\Google Drive\Programing\WSG\Примеры Курс 2\CalckSimplTest\CalckSimplTest\bin\Debug\CalckSimplTest.exe
+C:\Users\Viacheslav\Google Drive\Programing\WSG\Примеры Курс 2\CalckSimplTest\CalckSimplTest\bin\Debug\CalckSimplTest.pdb
+C:\Users\Viacheslav\Google Drive\Programing\WSG\Примеры Курс 2\CalckSimplTest\CalckSimplTest\obj\Debug\CalckSimplTest.csprojResolveAssemblyReference.cache
+C:\Users\Viacheslav\Google Drive\Programing\WSG\Примеры Курс 2\CalckSimplTest\CalckSimplTest\obj\Debug\CalckSimplTest.MainForm.resources
+C:\Users\Viacheslav\Google Drive\Programing\WSG\Примеры Курс 2\CalckSimplTest\CalckSimplTest\obj\Debug\CalckSimplTest.Properties.Resources.resources
+C:\Users\Viacheslav\Google Drive\Programing\WSG\Примеры Курс 2\CalckSimplTest\CalckSimplTest\obj\Debug\CalckSimplTest.csproj.GenerateResource.Cache
+C:\Users\Viacheslav\Documents\GitHub\C-SharpStudyProject\C-SharpStudyProject\CalckSimplTest\bin\Debug\CalckSimplTest.exe.config
+C:\Users\Viacheslav\Documents\GitHub\C-SharpStudyProject\C-SharpStudyProject\CalckSimplTest\obj\Debug\CalckSimplTest.exe
+C:\Users\Viacheslav\Documents\GitHub\C-SharpStudyProject\C-SharpStudyProject\CalckSimplTest\obj\Debug\CalckSimplTest.pdb
